@@ -69,6 +69,8 @@ You have been hired as a database administrator to identify performance related 
 
 1. Wait for the query to complete.
 
+2. When prompted "your changes will be discarded" , click on **OK**
+
 1. On the blade for the **AdventureWorksLT** database, select the **Metrics** icon on the **Monitoring** section.
 
     ![Screenshot showing selecting the Metrics icon](../images/dp-300-lab-06-img11.png)
